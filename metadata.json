@@ -1,0 +1,6 @@
+{
+  "name": "KSP AI 평가 플랫폼",
+  "description": "KSP ODA 사업 종료평가 AI 워크벤치 및 성과 온톨로지 검증 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
